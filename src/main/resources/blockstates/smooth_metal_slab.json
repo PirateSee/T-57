@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "t57:block/smooth_metal_slab"
+    },
+    "type=double": {
+      "model": "t57:block/smooth_metal"
+    },
+    "type=top": {
+      "model": "t57:block/smooth_metal_slab_top"
+    }
+  }
+}
