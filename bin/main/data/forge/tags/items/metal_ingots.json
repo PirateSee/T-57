@@ -1,0 +1,15 @@
+{
+	"replace":false,
+	"values":[
+		"t57:mythril_ingot",
+		"minecraft:iron_ingot",
+		"mineraft:gold_ingot",
+		"create:zinc_ingot",
+		"create:brass_ingot",
+		"mekanism:ingot_osmium",
+		"mekanism:ingot_steel",
+		"minecraft:copper_ingot",
+		"mekanism:ingot_tin",
+		"mekanism:ingot_lead"
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"replace":false,
+	"values":[
+		"t57:ikuslate",
+		"t57:ikudoro",
+		"t57:small_metal_panels",
+		"t57:metal_panels",
+		"t57:large_metal_panels",
+		"t57:griptile",
+		"t57:smooth_metal",
+		"t57:lined_smooth_metal",
+		"t57:hexagonal_smooth_metal",
+		"t57:caution_smooth_metal",
+		"t57:caution_block",
+		"t57:x_panel",
+		"t57:hex_porthole",
+		"t57:small_metal_panels_slab",
+		"t57:small_metal_panels_stairs",
+		"t57:smooth_metal_slab",
+		"t57:smooth_metal_stairs",
+		"t57:griptile_slab",
+		"t57:griptile_stairs"
+	]
+}
