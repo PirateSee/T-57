@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "t57:blocks/smooth_metal",
+    "top": "t57:blocks/smooth_metal",
+    "side": "t57:blocks/smooth_metal"
+  }
+}

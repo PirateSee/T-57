@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "t57:blocks/fungalplank",
+    "top": "t57:blocks/fungalplank",
+    "side": "t57:blocks/fungalplank"
+  }
+}

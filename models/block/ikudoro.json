@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "t57:blocks/ikudorotop",
+    "bottom": "t57:blocks/ikuslate",
+    "side": "t57:blocks/ikudoroside",
+    "particle": "t57:blocks/ikuslate"
+  }
+}
