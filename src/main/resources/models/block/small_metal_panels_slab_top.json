@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "t57:blocks/small_metal_panels",
+    "top": "t57:blocks/small_metal_panels",
+    "side": "t57:blocks/small_metal_panels"
+  }
+}
