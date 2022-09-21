@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "t57:blocks/fungalplank",
-    "top": "t57:blocks/fungalplank",
-    "side": "t57:blocks/fungalplank"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "bottom": "t57:blocks/griptile",
-    "top": "t57:blocks/griptile",
-    "side": "t57:blocks/griptile"
-  }
-}
